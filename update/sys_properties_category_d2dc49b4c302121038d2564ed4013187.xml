@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 00:16:05</sys_created_on>
+        <sys_id>d2dc49b4c302121038d2564ed4013187</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_d2dc49b4c302121038d2564ed4013187</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 00:16:05</sys_updated_on>
+        <title><![CDATA[<p><span style="font-size: 14pt;"><strong><span style="color: #f1c40f;">NeedIt Properties</span></strong></span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=d2dc49b4c302121038d2564ed4013187"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d2dc49b4c302121038d2564ed4013187</documentkey>
+        <fieldname>name</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 00:16:05</sys_created_on>
+        <sys_id>41fc8174c302121038d2564ed40131c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 00:16:05</sys_updated_on>
+        <tablename>sys_properties_category</tablename>
+        <value>NeedIt Properties</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d2dc49b4c302121038d2564ed4013187</documentkey>
+        <fieldname>title</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 00:16:05</sys_created_on>
+        <sys_id>01fc8174c302121038d2564ed40131c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 00:16:05</sys_updated_on>
+        <tablename>sys_properties_category</tablename>
+        <value>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;&lt;span style="color: #f1c40f;"&gt;NeedIt Properties&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</value>
+    </sys_translated_text>
+</record_update>
